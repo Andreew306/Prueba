@@ -18,4 +18,4 @@
 _Cursiva_
 ` Texto `
 [Link](https://bitbucket.org/product/es/version-control-software)
-![Image](https://marketing4ecommerce.net/wp-content/uploads/2018/06/GitHub-logo-2-imagen.jpg)
+![Image](https://marketing4ecommerce.net/wp-content/uploads/2018/06/GitHub-logo-2-imagen.jpg)  ss
