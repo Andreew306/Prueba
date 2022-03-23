@@ -17,5 +17,5 @@
 **Negrita**
 _Cursiva_
 ` Texto `
-[https://bitbucket.org/product/es/version-control-software](url)
-![https://marketing4ecommerce.net/wp-content/uploads/2018/06/GitHub-logo-2-imagen.jpg](src)
+[Link](https://bitbucket.org/product/es/version-control-software)
+![Image](https://marketing4ecommerce.net/wp-content/uploads/2018/06/GitHub-logo-2-imagen.jpg)
